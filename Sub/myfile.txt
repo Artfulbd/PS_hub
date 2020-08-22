@@ -1,0 +1,12 @@
+Case 1: 2
+Case 2: 1
+Case 3: 128
+Case 4: impossible
+Case 5: impossible
+Case 6: 900
+Case 7: 34572482884
+Case 8: 1204930592
+Case 9: 193
+Case 10: 464
+Case 11: 169
+Case 12: 13370699342
